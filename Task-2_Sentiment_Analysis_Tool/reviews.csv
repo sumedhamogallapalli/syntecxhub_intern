@@ -1,0 +1,129 @@
+text,sentiment
+I loved the product; the build quality was excellent.,positive
+I loved the application; the customer support was excellent.,positive
+I loved the service; the design was excellent.,positive
+I loved the course; the performance was excellent.,positive
+I loved the purchase; the delivery was excellent.,positive
+I loved the website; the build quality was excellent.,positive
+I loved the tool; the customer support was excellent.,positive
+I loved the restaurant; the design was excellent.,positive
+The product was excellent and worked perfectly.,positive
+The application was pleasant and worked perfectly.,positive
+The service was fantastic and worked perfectly.,positive
+The course was reliable and worked perfectly.,positive
+The purchase was wonderful and worked perfectly.,positive
+The website was smooth and worked perfectly.,positive
+The tool was excellent and worked perfectly.,positive
+The restaurant was pleasant and worked perfectly.,positive
+I am very happy with this product.,positive
+I am very happy with this application.,positive
+I am very happy with this service.,positive
+I am very happy with this course.,positive
+I am very happy with this purchase.,positive
+I am very happy with this website.,positive
+I am very happy with this tool.,positive
+I am very happy with this restaurant.,positive
+The product exceeded my expectations.,positive
+The application exceeded my expectations.,positive
+The service exceeded my expectations.,positive
+The course exceeded my expectations.,positive
+The purchase exceeded my expectations.,positive
+The website exceeded my expectations.,positive
+The tool exceeded my expectations.,positive
+The restaurant exceeded my expectations.,positive
+Excellent product with delivery and great performance.,positive
+Excellent application with build quality and great performance.,positive
+Excellent service with customer support and great performance.,positive
+Excellent course with design and great performance.,positive
+Excellent purchase with performance and great performance.,positive
+Excellent website with delivery and great performance.,positive
+Excellent tool with build quality and great performance.,positive
+Excellent restaurant with customer support and great performance.,positive
+This was a fantastic experience from start to finish.,positive
+This was a reliable experience from start to finish.,positive
+This was a wonderful experience from start to finish.,positive
+This was a smooth experience from start to finish.,positive
+This was a excellent experience from start to finish.,positive
+This was a pleasant experience from start to finish.,positive
+I would definitely recommend this product.,positive
+I would definitely recommend this application.,positive
+I would definitely recommend this service.,positive
+I would definitely recommend this course.,positive
+I would definitely recommend this purchase.,positive
+I would definitely recommend this website.,positive
+I would definitely recommend this tool.,positive
+I would definitely recommend this restaurant.,positive
+The product is easy to use and very helpful.,positive
+The application is easy to use and very helpful.,positive
+The service is easy to use and very helpful.,positive
+The course is easy to use and very helpful.,positive
+I hated the product; the build quality was terrible.,negative
+I hated the application; the customer support was terrible.,negative
+I hated the service; the design was terrible.,negative
+I hated the course; the performance was terrible.,negative
+I hated the purchase; the delivery was terrible.,negative
+I hated the website; the build quality was terrible.,negative
+I hated the tool; the customer support was terrible.,negative
+I hated the restaurant; the design was terrible.,negative
+The product was terrible and failed repeatedly.,negative
+The application was poor and failed repeatedly.,negative
+The service was disappointing and failed repeatedly.,negative
+The course was unreliable and failed repeatedly.,negative
+The purchase was awful and failed repeatedly.,negative
+The website was frustrating and failed repeatedly.,negative
+The tool was terrible and failed repeatedly.,negative
+The restaurant was poor and failed repeatedly.,negative
+I am very unhappy with this product.,negative
+I am very unhappy with this application.,negative
+I am very unhappy with this service.,negative
+I am very unhappy with this course.,negative
+I am very unhappy with this purchase.,negative
+I am very unhappy with this website.,negative
+I am very unhappy with this tool.,negative
+I am very unhappy with this restaurant.,negative
+The product failed to meet my expectations.,negative
+The application failed to meet my expectations.,negative
+The service failed to meet my expectations.,negative
+The course failed to meet my expectations.,negative
+The purchase failed to meet my expectations.,negative
+The website failed to meet my expectations.,negative
+The tool failed to meet my expectations.,negative
+The restaurant failed to meet my expectations.,negative
+Poor product with delivery and disappointing performance.,negative
+Poor application with build quality and disappointing performance.,negative
+Poor service with customer support and disappointing performance.,negative
+Poor course with design and disappointing performance.,negative
+Poor purchase with performance and disappointing performance.,negative
+Poor website with delivery and disappointing performance.,negative
+Poor tool with build quality and disappointing performance.,negative
+Poor restaurant with customer support and disappointing performance.,negative
+This was a disappointing experience from start to finish.,negative
+This was a unreliable experience from start to finish.,negative
+This was a awful experience from start to finish.,negative
+This was a frustrating experience from start to finish.,negative
+This was a terrible experience from start to finish.,negative
+This was a poor experience from start to finish.,negative
+I would not recommend this product.,negative
+I would not recommend this application.,negative
+I would not recommend this service.,negative
+I would not recommend this course.,negative
+I would not recommend this purchase.,negative
+I would not recommend this website.,negative
+I would not recommend this tool.,negative
+I would not recommend this restaurant.,negative
+The product is confusing and very difficult to use.,negative
+The application is confusing and very difficult to use.,negative
+The service is confusing and very difficult to use.,negative
+The course is confusing and very difficult to use.,negative
+The battery lasts all day and the camera takes beautiful photos.,positive
+"The update is fast, stable, and much easier to navigate.",positive
+I received my order early and the packaging was excellent.,positive
+The instructor explained every topic clearly and patiently.,positive
+"The hotel room was clean, comfortable, and spacious.",positive
+The support team resolved my issue in a few minutes.,positive
+The battery dies quickly and the camera takes blurry photos.,negative
+"The update is slow, unstable, and difficult to navigate.",negative
+My order arrived late and the packaging was damaged.,negative
+The instructor explained the topics poorly and rushed through them.,negative
+"The hotel room was dirty, uncomfortable, and cramped.",negative
+The support team ignored my issue for several days.,negative
